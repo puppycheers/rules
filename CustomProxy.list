@@ -4,6 +4,6 @@
 DOMAIN,copilot.microsoft.com
 DOMAIN-SUFFIX,browserleaks.com
 DOMAIN-SUFFIX,browserleaks.org
-DOMAIN-KEYWORD,browserleaks
 DOMAIN-SUFFIX,tgstat.com
-DOMAIN-SUFFIX,0f36371.com
+DOMAIN-KEYWORD,browserleaks
+DOMAIN-KEYWORD,tgstat
