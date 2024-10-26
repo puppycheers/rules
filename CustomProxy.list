@@ -3,7 +3,4 @@
 # 域名后缀匹配
 DOMAIN,copilot.microsoft.com
 DOMAIN-SUFFIX,browserleaks.com
-DOMAIN-SUFFIX,browserleaks.org
-DOMAIN-SUFFIX,tgstat.com
-DOMAIN-KEYWORD,browserleaks
 DOMAIN-KEYWORD,tgstat
