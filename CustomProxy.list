@@ -3,4 +3,5 @@
 # 域名后缀匹配
 DOMAIN,copilot.microsoft.com
 DOMAIN-SUFFIX,fast.com
+DOMAIN-SUFFIX,huggingface.co
 DOMAIN-KEYWORD,tgstat
