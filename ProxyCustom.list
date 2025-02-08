@@ -4,6 +4,8 @@ DOMAIN-SUFFIX,v2rayssr.com
 DOMAIN-SUFFIX,vsean.net
 DOMAIN-SUFFIX,rmdown.com
 DOMAIN-SUFFIX,digvps.com
+DOMAIN-SUFFIX,v.ps
+DOMAIN-SUFFIX,vps.hosting
 
 # IP段匹配
 IP-CIDR,142.171.133.131/32,no-resolve
