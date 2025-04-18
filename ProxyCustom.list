@@ -6,6 +6,8 @@ DOMAIN-SUFFIX,rmdown.com
 DOMAIN-SUFFIX,digvps.com
 DOMAIN-SUFFIX,v.ps
 DOMAIN-SUFFIX,vps.hosting
+DOMAIN-SUFFIX,aikan.la
+DOMAIN-SUFFIX,aikan.cloud
 
 # IP段匹配
 IP-CIDR,142.171.133.131/32,no-resolve
