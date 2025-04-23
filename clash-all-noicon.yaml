@@ -6,65 +6,15 @@
 
 proxy-providers:
 
-  火烧云:
-    url: "[订阅地址（机场原始地址/Sub-Store格式化后的地址）]"
+  Collection:
+    url: "https://substore.puppycheers.eu.org/oyQWp3AAczcmyQ2aR2sn/download/collection/Collection"
     type: http
     interval: 86400
     health-check:
       enable: true
       url: https://www.gstatic.com/generate_204
       interval: 300
-    proxy: 直连 
-
-  小牛:
-    url: "[订阅地址（机场原始地址/Sub-Store格式化后的地址）]"
-    type: http
-    interval: 86400
-    health-check:
-      enable: true
-      url: https://www.gstatic.com/generate_204
-      interval: 300
-    proxy: 直连    
-
-  硅谷:
-    url: "[订阅地址（机场原始地址/Sub-Store格式化后的地址）]"
-    type: http
-    interval: 86400
-    health-check:
-      enable: true
-      url: https://www.gstatic.com/generate_204
-      interval: 300
-    proxy: 直连      
-   
-  猫耳:
-    url: "[订阅地址（机场原始地址/Sub-Store格式化后的地址）]"
-    type: http
-    interval: 86400
-    health-check:
-      enable: true
-      url: https://www.gstatic.com/generate_204
-      interval: 300
-    proxy: 直连   
-
-  快猫:
-    url: "[订阅地址（机场原始地址/Sub-Store格式化后的地址）]"
-    type: http
-    interval: 86400
-    health-check:
-      enable: true
-      url: https://www.gstatic.com/generate_204
-      interval: 300
-    proxy: 直连    
-
-  牛逼:
-    url: "[订阅地址（机场原始地址/Sub-Store格式化后的地址）]"
-    type: http
-    interval: 86400
-    health-check:
-      enable: true
-      url: https://www.gstatic.com/generate_204
-      interval: 300
-    proxy: 直连      
+    proxy: 直连
 
 proxies:
   - {name: 直连, type: direct}
