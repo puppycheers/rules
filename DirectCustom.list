@@ -25,8 +25,7 @@ DOMAIN-SUFFIX,sharon.io
 DOMAIN-SUFFIX,fast-line.tw
 
 # Emby
-DOMAIN-SUFFIX,tv.micu.hk
-DOMAIN-SUFFIX,tv1.micu.hk
+DOMAIN-SUFFIX,micu.hk
 
 # IP段匹配
 IP-CIDR,219.146.1.66/32,no-resolve
