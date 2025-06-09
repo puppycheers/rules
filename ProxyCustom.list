@@ -9,6 +9,7 @@ DOMAIN-SUFFIX,vps.hosting
 DOMAIN-SUFFIX,aikan.la
 DOMAIN-SUFFIX,aikan.cloud
 DOMAIN-SUFFIX,gpsoft.com.au
+DOMAIN-SUFFIX,vps.hosting
 
 # IP段匹配
 IP-CIDR,142.171.133.131/32,no-resolve
