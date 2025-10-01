@@ -6,3 +6,4 @@ DOMAIN-SUFFIX,metademolab.com
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,perplexity
+DOMAIN-KEYWORD,gemini
