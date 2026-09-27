@@ -1,0 +1,23 @@
+{
+  "version": 3,
+  "rules": [
+    {
+      "domain": [
+        "dl.l.google.com"
+      ],
+      "domain_suffix": [
+        "dl.google.com",
+        "qichiyu.com",
+        "v2rayssr.com",
+        "rmdown.com",
+        "digvps.com",
+        "v.ps",
+        "vps.hosting",
+        "gpsoft.com.au",
+        "sakiko.de",
+        "bandwagonhost.com",
+        "347347347.xyz"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "version": 3,
+  "rules": [
+    {
+      "domain_suffix": [
+        "lanzov.com",
+        "puppycheers.eu.org",
+        "puppycheers.top",
+        "360585.xyz",
+        "37546128.xyz",
+        "360585999.cc",
+        "sharon.io",
+        "gomami.io",
+        "peekabo.io",
+        "listary.com",
+        "obsidian.md",
+        "steamcontent.com",
+        "steamserver.net",
+        "steamcdn-a.akamaihd.net",
+        "8686c.com",
+        "tnkjmec.com",
+        "clngaa.com",
+        "ksyna.com",
+        "eccdnx.com",
+        "pphimalayanrt.com",
+        "queniuqe.com",
+        "bscstorage.net",
+        "xdmgc.com",
+        "windowsupdate.com",
+        "delivery.mp.microsoft.com",
+        "do.dsp.mp.microsoft.com"
+      ]
+    }
+  ]
+}
