@@ -120,7 +120,13 @@
       "type": "mixed",
       "listen": "0.0.0.0",
       "listen_port": 7890
-    }
+    },
+	{
+  "tag": "dns-in",
+  "type": "direct",
+  "listen": "10.10.10.3",
+  "listen_port": 53
+    }  
   ],
   "services": [
     {
