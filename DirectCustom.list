@@ -26,3 +26,21 @@ DOMAIN-SUFFIX,galaxyappstore.com
 DOMAIN-SUFFIX,sharon.io
 DOMAIN-SUFFIX,gomami.io
 DOMAIN-SUFFIX,peekabo.io
+
+# cdn
+DOMAIN-SUFFIX,steamcontent.com
+DOMAIN-SUFFIX,steamserver.net
+DOMAIN-SUFFIX,steamcdn-a.akamaihd.net
+DOMAIN-SUFFIX,8686c.com
+DOMAIN-SUFFIX,tnkjmec.com
+DOMAIN-SUFFIX,clngaa.com
+DOMAIN-SUFFIX,ksyna.com
+DOMAIN-SUFFIX,eccdnx.com
+DOMAIN-SUFFIX,pphimalayanrt.com
+DOMAIN-SUFFIX,queniuqe.com
+DOMAIN-SUFFIX,bscstorage.net
+DOMAIN-SUFFIX,xdmgc.com
+DOMAIN-SUFFIX,windowsupdate.com
+DOMAIN-SUFFIX,delivery.mp.microsoft.com
+DOMAIN-SUFFIX,do.dsp.mp.microsoft.com
+
