@@ -1,0 +1,35 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain_suffix": [
+        "time.windows.com",
+        "lanzov.com",
+        "hao123.com",
+        "puppycheers.top",
+        "galaxyappstore.com",
+        "sharon.io",
+        "gomami.io",
+        "steamcontent.com",
+        "steamserver.net",
+        "steamcdn-a.akamaihd.net",
+        "8686c.com",
+        "tnkjmec.com",
+        "clngaa.com",
+        "ksyna.com",
+        "eccdnx.com",
+        "pphimalayanrt.com",
+        "queniuqe.com",
+        "bscstorage.net",
+        "xdmgc.com",
+        "windowsupdate.com",
+        "delivery.mp.microsoft.com",
+        "do.dsp.mp.microsoft.com"
+      ],
+      "domain_keyword": [
+        "baidu",
+        "wacom"
+      ]
+    }
+  ]
+}
