@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain_suffix": [
+        "ultramobile.com",
+        "pornhub.com",
+        "micu.hk",
+        "nodeseek.com",
+        "tello.com",
+        "researchgate.net",
+        "unraid.net"
+      ]
+    }
+  ]
+}
