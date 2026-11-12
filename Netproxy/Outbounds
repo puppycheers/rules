@@ -1,0 +1,294 @@
+{
+  "outbounds": [
+    {
+      "type": "selector",
+      "tag": "Proxy",
+      "outbounds": [
+        "香港手动",
+        "日本手动",
+        "美国手动",
+        "block",
+        "direct"
+      ],
+      "use_all_providers": true,
+      "default": "日本手动",
+      "interrupt_exist_connections": true
+    },
+    {
+      "type": "selector",
+      "tag": "香港手动",
+      "use_all_providers": true,
+      "include": "(?i)(🇭🇰|香港|港区|港區|hong[ _-]?kong|(^|[^a-z])hk([^a-z]|$))",
+      "interrupt_exist_connections": true
+    },
+    {
+      "type": "selector",
+      "tag": "日本手动",
+      "use_all_providers": true,
+      "include": "(?i)(🇯🇵|日本|东京|東京|大阪|japan|(^|[^a-z])jp([^a-z]|$))",
+      "interrupt_exist_connections": true
+    },
+    {
+      "type": "selector",
+      "tag": "美国手动",
+      "use_all_providers": true,
+      "include": "(?i)(🇺🇸|美国|美國|洛杉矶|洛杉磯|西雅图|西雅圖|达拉斯|達拉斯|硅谷|矽谷|united[ _-]?states|america|(^|[^a-z])us([^a-z]|$))",
+      "interrupt_exist_connections": true
+    },
+    {
+      "type": "selector",
+      "tag": "直连-自定义",
+      "outbounds": [
+        "Proxy",
+        "美国手动",
+        "日本手动",
+        "香港手动",
+        "direct"
+      ],
+      "default": "direct",
+      "interrupt_exist_connections": true
+    },
+    {
+      "type": "selector",
+      "tag": "代理-自定义",
+      "outbounds": [
+        "Proxy",
+        "美国手动",
+        "日本手动",
+        "香港手动",
+        "direct"
+      ],
+      "default": "Proxy",
+      "interrupt_exist_connections": true
+    },
+    {
+      "type": "selector",
+      "tag": "美国-自定义",
+      "outbounds": [
+        "Proxy",
+        "美国手动",
+        "日本手动",
+        "香港手动",
+        "direct"
+      ],
+      "default": "美国手动",
+      "interrupt_exist_connections": true
+    },
+    {
+      "type": "selector",
+      "tag": "1Password",
+      "outbounds": [
+        "Proxy",
+        "美国手动",
+        "日本手动",
+        "香港手动",
+        "direct"
+      ],
+      "default": "Proxy",
+      "interrupt_exist_connections": true
+    },
+    {
+      "type": "selector",
+      "tag": "AI",
+      "outbounds": [
+        "Proxy",
+        "美国手动",
+        "日本手动",
+        "香港手动",
+        "direct"
+      ],
+      "default": "Proxy",
+      "interrupt_exist_connections": true
+    },
+    {
+      "type": "selector",
+      "tag": "Youtube",
+      "outbounds": [
+        "Proxy",
+        "美国手动",
+        "日本手动",
+        "香港手动",
+        "direct"
+      ],
+      "default": "Proxy",
+      "interrupt_exist_connections": true
+    },
+    {
+      "type": "selector",
+      "tag": "Google",
+      "outbounds": [
+        "Proxy",
+        "美国手动",
+        "日本手动",
+        "香港手动",
+        "direct"
+      ],
+      "default": "Proxy",
+      "interrupt_exist_connections": true
+    },
+    {
+      "type": "selector",
+      "tag": "Github",
+      "outbounds": [
+        "Proxy",
+        "美国手动",
+        "日本手动",
+        "香港手动",
+        "direct"
+      ],
+      "default": "Proxy",
+      "interrupt_exist_connections": true
+    },
+    {
+      "type": "selector",
+      "tag": "Telegram",
+      "outbounds": [
+        "Proxy",
+        "美国手动",
+        "日本手动",
+        "香港手动",
+        "direct"
+      ],
+      "default": "Proxy",
+      "interrupt_exist_connections": true
+    },
+    {
+      "type": "selector",
+      "tag": "Tiktok",
+      "outbounds": [
+        "Proxy",
+        "美国手动",
+        "日本手动",
+        "香港手动",
+        "direct"
+      ],
+      "default": "Proxy",
+      "interrupt_exist_connections": true
+    },
+    {
+      "type": "selector",
+      "tag": "Media",
+      "outbounds": [
+        "Proxy",
+        "美国手动",
+        "日本手动",
+        "香港手动",
+        "direct"
+      ],
+      "default": "Proxy",
+      "interrupt_exist_connections": true
+    },
+    {
+      "type": "selector",
+      "tag": "Instagram",
+      "outbounds": [
+        "Proxy",
+        "美国手动",
+        "日本手动",
+        "香港手动",
+        "direct"
+      ],
+      "default": "Proxy",
+      "interrupt_exist_connections": true
+    },
+    {
+      "type": "selector",
+      "tag": "Steam@CN",
+      "outbounds": [
+        "Proxy",
+        "美国手动",
+        "日本手动",
+        "香港手动",
+        "direct"
+      ],
+      "default": "Proxy",
+      "interrupt_exist_connections": true
+    },
+    {
+      "type": "selector",
+      "tag": "Games",
+      "outbounds": [
+        "Proxy",
+        "美国手动",
+        "日本手动",
+        "香港手动",
+        "direct"
+      ],
+      "default": "Proxy",
+      "interrupt_exist_connections": true
+    },
+    {
+      "type": "selector",
+      "tag": "Onedrive",
+      "outbounds": [
+        "Proxy",
+        "美国手动",
+        "日本手动",
+        "香港手动",
+        "direct"
+      ],
+      "default": "Proxy",
+      "interrupt_exist_connections": true
+    },
+    {
+      "type": "selector",
+      "tag": "Microsoft",
+      "outbounds": [
+        "Proxy",
+        "美国手动",
+        "日本手动",
+        "香港手动",
+        "direct"
+      ],
+      "default": "direct",
+      "interrupt_exist_connections": true
+    },
+    {
+      "type": "selector",
+      "tag": "Apple",
+      "outbounds": [
+        "Proxy",
+        "美国手动",
+        "日本手动",
+        "香港手动",
+        "direct"
+      ],
+      "default": "direct",
+      "interrupt_exist_connections": true
+    },
+    {
+      "type": "selector",
+      "tag": "Paypal",
+      "outbounds": [
+        "Proxy",
+        "美国手动",
+        "日本手动",
+        "香港手动",
+        "direct"
+      ],
+      "default": "Proxy",
+      "interrupt_exist_connections": true
+    },
+    {
+      "type": "selector",
+      "tag": "Final",
+      "outbounds": [
+        "Proxy",
+        "美国手动",
+        "日本手动",
+        "香港手动",
+        "direct"
+      ],
+      "default": "Proxy",
+      "interrupt_exist_connections": true
+    },
+    {
+      "type": "direct",
+      "tag": "direct"
+    },
+    {
+      "type": "block",
+      "tag": "block"
+    }
+  ]
+}
