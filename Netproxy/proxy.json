@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain_suffix": [
+        "qichiyu.com",
+        "v2rayssr.com",
+        "rmdown.com",
+        "digvps.com",
+        "v.ps",
+        "vps.hosting",
+        "gpsoft.com.au",
+        "bandwagonhost.com",
+        "dl.google.com",
+        "peekabo.io",
+        "ctexcel.com"
+      ],
+      "domain": [
+        "dl.l.google.com"
+      ]
+    }
+  ]
+}
