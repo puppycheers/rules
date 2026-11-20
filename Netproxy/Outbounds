@@ -4,6 +4,7 @@
       "type": "selector",
       "tag": "Proxy",
       "outbounds": [
+        "Auto",
         "香港手动",
         "日本手动",
         "美国手动",
@@ -11,7 +12,19 @@
         "direct"
       ],
       "use_all_providers": true,
-      "default": "日本手动",
+      "default": "Auto",
+      "interrupt_exist_connections": true
+    },
+    {
+      "type": "urltest",
+      "tag": "Auto",
+      "outbounds": [
+        "block"
+      ],
+      "use_all_providers": true,
+      "url": "https://www.gstatic.com/generate_204",
+      "interval": "3m",
+      "tolerance": 50,
       "interrupt_exist_connections": true
     },
     {
