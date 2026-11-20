@@ -18,9 +18,6 @@
     {
       "type": "urltest",
       "tag": "Auto",
-      "outbounds": [
-        "block"
-      ],
       "use_all_providers": true,
       "url": "https://www.gstatic.com/generate_204",
       "interval": "3m",
@@ -214,7 +211,7 @@
         "香港手动",
         "direct"
       ],
-      "default": "Proxy",
+      "default": "direct",
       "interrupt_exist_connections": true
     },
     {
