@@ -1,0 +1,6 @@
+"http_clients": [
+  {
+    "tag": "s-download",
+    "detour": "香港手动"
+  }
+]
